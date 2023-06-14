@@ -10,3 +10,7 @@ git add danny-devito-cute.png
 git commit -m "Adding image resources for future entertainment"
 git push
 ```
+
+- [X] Do this step
+- [ ] Do the next step
+- [ ] Find more pics of Danny Devito
